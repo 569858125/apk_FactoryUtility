@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">工厂测试</string>
+    <string name="action_settings">设置</string>
+    <string name="status_unavailable">不可用</string>
+    <string name="wifi_security_none">None</string>
+    <string name="basic_info">基本信息</string>
+    <string name="hw_version">硬件版本：</string>
+    <string name="unchecked">"未检测 "</string>
+    <string name="module_number">产品型号：</string>
+    <string name="max_freq">CPU最高频率：</string>
+    <string name="min_freq">CPU最低频率：</string>
+    <string name="current_freq">CPU当前频率：</string>
+    <string name="language">"语言&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;："</string>
+    <string name="sw_version">软件版本：</string>
+    <string name="app_version">APK版本：</string>
+    <string name="resolution">"分辨率&#160;&#160;&#160;&#160;："</string>
+    <string name="time_zone">地理时区：</string>
+    <string name="video">视频</string>
+    <string name="realtime_test">实时测试</string>
+    <string name="usb_test">Usb  测试</string>
+    <string name="no_device">未检测到设备</string>
+    <string name="sdcard_test">SD卡测试</string>
+    <string name="wifi_test">WiFi测试</string>
+    <string name="wifi_closed">未开启WiFi网络</string>
+    <string name="bt_test">蓝牙测试</string>
+    <string name="bt_closed">未开启蓝牙</string>
+    <string name="eth_test">以太网测试</string>
+    <string name="eth_not_connected">以太网未连接</string>
+    <string name="result">总体结果</string>
+    <string name="burning">"其他信息"</string>
+    <string name="sn_number">"设备序列号："</string>
+    <string name="tip_input_sn">输入32位SN地址</string>
+    <string name="sn_burning">"烧录"</string>
+    <string name="reinput_sn">"重新输入"</string>
+    <string name="mac_addr">Mac地址：</string>
+    <string name="tip_input_mac">输入12位Mac地址</string>
+    <string name="mac_burning">"烧录"</string>
+    <string name="reinput_mac">"重新输入"</string>
+    <string name="factory_reset">恢复出厂设置</string>
+    <string name="play_ts">播放码流</string>
+    <string name="play_ps">本地视频</string>
+    <string name="wifi_list">WiFi列表</string>
+    <string name="bt_list">蓝牙列表</string>
+    <string name="str_space">"&#160;&#160;"</string>
+    <string name="apkd_connection_status">连接状态：</string>
+    <string name="apkd_connection_falied">连接失败</string>
+    <string name="apkd_serverip">服务器IP：</string>
+    <string name="apkd_change">&#160;&#160;修&#160;&#160;&#160;改&#160;&#160;&#160;&#160;</string>
+    <string name="apkd_test">&#160;&#160;测&#160;&#160;&#160;试&#160;&#160;&#160;&#160;</string>
+    <string name="apkd_download">下载</string>
+    <string name="apkd_counter_ok">成功次数：</string>
+    <string name="apkd_coutner_0">0次</string>
+    <string name="apkd_counter_na">失败次数：</string>
+    <string name="apkd_install">安装</string>
+    <string name="apkd_uninstall">卸载</string>
+    <string name="general_info"><Data><![CDATA[<font color="#ffff00"><b>%1$s</b></font> <font color="#ffffff"><b>%2$s</b></font>]]></Data></string>
+    <!--
+    <string name="cpu_ferq_info"><Data><![CDATA[<font color="#FFFF00"><b>最低频率</b></font> <font color="#000000"><b>%1$s</b></font>
+                                                <font color="#FFFF00"><b>&nbsp;&nbsp;最高频率</b></font> <font color="#000000"><b>%2$s</b></font>
+                                                <font color="#FFFF00"><b>&nbsp;&nbsp;当前频率</b></font> <font color="#000000"><b>%3$s</b></font>]]></Data></string>
+                                                -->
+    <string name="usb_numbers_1">接入一个usb设备</string>
+    <string name="usb_numbers_2">接入两个usb设备</string>
+    <string name="usb_numbers_3">接入三个usb设备</string>
+    <string name="sd_detected">已插入SD卡</string>
+    <string name="sd_not_detected">未插入SD卡</string>
+    <string name="success">"成功！ "</string>
+    <string name="failed">"失败！ "</string>
+    <string name="bt_search_done">"搜索完毕! \n"</string>
+
+    <string name="eth_cable_connected">"已插入以太网网线"</string>
+    <string name="ip_prefix">"已插入以太网网线"</string>
+    <string name="ip_addr_prefix">"已插入以太网网线"</string>
+    <string name="NO_eth_cable_connected">"没有可用网络"</string>
+    <string name="ip_addr">"IP地址："</string>
+    <string name="WIFI_lianjie">"连接无线网络测试，需要拔掉以太网线。"</string>
+    <string name="WIFI_kaiqi">"WIFI已经开启"</string>
+    <string name="weilianjie">"未连接"</string>
+    <string name="yimoren">"已默认连接："</string>
+    <string name="tuichu">"再按一次退出！"</string>
+    <string name="shifouxiazai">"是否测试下载软件？"</string>
+    <string name="shiping">"视频"</string>
+    <string name="NO_BL_qudong">"本机没有找到蓝牙硬件或驱动！"</string>
+    <string name="sp">"视频 ("</string>
+    <string name="pinglu">"频率： ("</string>
+    <string name="daikuan">";  带宽：" </string>
+    <string name="zhuanfaqi">";  转发器：" </string>
+    <string name="fumalu">");  符吗率："</string>
+    <string name="pindaosuoding">"频道锁定 !"</string>
+    <string name="meiyouyinping">"没有音频"</string>
+    <string name="meiyoushiping">"没有视频"</string>
+    <string name="jiaraopindao">"加扰频道"</string>
+    <string name="meiyouxinhao">"没有信号"</string>
+    <string name="Mac_worry">"Mac地址输入错误"</string>
+    <string name="SN_worry">"SN地址输入错误"</string>
+    <string name="is_factory_reset">"是否恢复出厂设置"</string>
+    <string name="W_tip_input_mac">"输入12位Mac地址"</string>
+    <string name="W_tip_input_sn">"输入16位SN地址"</string>
+
+    <string name="eth_mac_null"> "Ethernet    :   00:00:00:00:00:00"</string>
+    <string name="wlan_mac_null">"WiFi    :   00:00:00:00:00:00"</string>
+    <string name="eth_info_predix">"有线    :   %1$s"</string>
+    <string name="wlan_info_prefix">"无线    :   %1$s"</string>
+
+</resources>
+

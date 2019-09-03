@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Factory Utility</string>
+    <string name="action_settings">Settings</string>
+    <string name="status_unavailable">Unavailable</string>
+    <string name="wifi_security_none">None</string>
+    <string name="basic_info">Basic Information</string>
+    <string name="hw_version">HardWare Ver:</string>
+    <string name="unchecked">"Undetected  "</string>
+    <string name="module_number">Module&#160;&#160;&#160;&#160;&#160;&#160;:</string>
+    <string name="max_freq">CPU Max Freq:</string>
+    <string name="min_freq">CPU Min Freq:</string>
+    <string name="current_freq">CPU Cur Freq:</string>
+    <string name="language">"Language&#160;:"</string>
+    <string name="sw_version">Software Ver:</string>
+    <string name="app_version">APP Ver&#160;&#160;&#160;&#160;&#160;:</string>
+    <string name="resolution">"Resolution: "</string>
+    <string name="time_zone">"Time Zone:"</string>
+    <string name="video">"Video"</string>
+    <string name="realtime_test">"RealTime testing"</string>
+    <string name="usb_test">"USB"</string>
+    <string name="no_device">"Device undeteched"</string>
+    <string name="sdcard_test">"SDCard"</string>
+    <string name="wifi_test">"WiFi:KONKA_SW"</string>
+    <string name="wifi_closed">"WiFi disabled"</string>
+    <string name="bt_test">"Bluetooth testing"</string>
+    <string name="bt_closed">"BlueTooth disabled"</string>
+    <string name="eth_test">"Ethernet"</string>
+    <string name="eth_not_connected">"Ethernet undeteched"</string>
+    <string name="result">"Summary"</string>
+    <string name="burning">"Other Information"</string>
+    <string name="sn_number">"Serial Number: "</string>
+    <string name="tip_input_sn">"Input serial number"</string>
+    <string name="sn_burning">"Burn"</string>
+    <string name="reinput_sn">"Retype SN&#160;"</string>
+    <string name="mac_addr">"MAC Address: "</string>
+    <string name="tip_input_mac">"Input MAC address"</string>
+    <string name="mac_burning">"Burn"</string>
+    <string name="reinput_mac">"Retype MAC"</string>
+    <string name="factory_reset">"Factory restore"</string>
+    <string name="play_ts">"Play TS"</string>
+    <string name="play_ps">"Play PS"</string>
+    <string name="wifi_list">"WiFi List"</string>
+    <string name="bt_list">"Bluetooth List"</string>
+    <string name="str_space">"&#160;&#160;"</string>
+    <string name="eth_mac_null"> "Ethernet    :   00:00:00:00:00:00"</string>
+    <string name="wlan_mac_null">"WiFi    :   00:00:00:00:00:00"</string>
+    <string name="apkd_connection_status">"Connection status"</string>
+    <string name="apkd_connection_falied">"Connection Failed"</string>
+    <string name="apkd_serverip">"Server IP"</string>
+    <string name="apkd_change">"Modify"</string>
+    <string name="apkd_test">"Testing"</string>
+    <string name="apkd_download">"Download"</string>
+    <string name="apkd_counter_ok">"Success counter:"</string>
+    <string name="apkd_coutner_0">"0"</string>
+    <string name="apkd_counter_na">"Failed counter:"</string>
+    <string name="apkd_install">"Install"</string>
+    <string name="apkd_uninstall">"Uninstall"</string>
+    <string name="general_info"><Data><![CDATA[<font color="#ffff00"><b>%1$s</b></font> <font color="#ffffff"><b>%2$s</b></font>]]></Data></string>
+    <!--
+    <string name="cpu_ferq_info"><Data><![CDATA[<font color="#FFFF00"><b>最低频率</b></font> <font color="#000000"><b>%1$s</b></font>
+                                                <font color="#FFFF00"><b>&nbsp;&nbsp;最高频率</b></font> <font color="#000000"><b>%2$s</b></font>
+                                                <font color="#FFFF00"><b>&nbsp;&nbsp;当前频率</b></font> <font color="#000000"><b>%3$s</b></font>]]></Data></string>
+                                                -->
+    <string name="usb_numbers_1">"First USB device"</string>
+    <string name="usb_numbers_2">"Second USB device"</string>
+    <string name="usb_numbers_3">"Third USB device"</string>
+    <string name="sd_detected">"SDCard deteched"</string>
+    <string name="sd_not_detected">"SDCard unteched"</string>
+    <string name="success">"Success ! "</string>
+    <string name="failed">"Failed ! "</string>
+    <string name="bt_search_done">"Scan done \n"</string>
+
+    <string name="eth_cable_connected">"Ethernet Cable deteched"</string>
+    <string name="ip_prefix">"Ethernet Cable deteched"</string>
+    <string name="ip_addr_prefix">"Ethernet Cable deteched"</string>
+    <string name="NO_eth_cable_connected">"No available network"</string>
+    <string name="ip_addr">"IP address: "</string>
+    <string name="WIFI_lianjie">"Please unplug the Ethernet cable for test WiFi network"</string>
+    <string name="WIFI_kaiqi">"WiFi enabled"</string>
+    <string name="weilianjie">"Not connected"</string>
+    <string name="yimoren">"Connected: "</string>
+    <string name="tuichu">"Please the back key again for exit"</string>
+    <string name="shifouxiazai">"Do you want to test the download apk"</string>
+    <string name="shiping">"Video"</string>
+    <string name="NO_BL_qudong">"Not support Bluetooth on this device"</string>
+    <string name="sp">"Voide ("</string>
+    <string name="pinglu">"Freq： "("</string>
+    <string name="daikuan">";  bandwidth" </string>
+    <string name="zhuanfaqi">";  repeater:" </string>
+    <string name="fumalu">");  BitRate"</string>
+    <string name="pindaosuoding">"Channel Locket"</string>
+    <string name="meiyouyinping">"No Audio"</string>
+    <string name="meiyoushiping">"No Video"</string>
+    <string name="jiaraopindao">"Scrambled Channel"</string>
+    <string name="meiyouxinhao">"No signal"</string>
+    <string name="Mac_worry">"Wrong format of MAC address"</string>
+    <string name="SN_worry">"Wrong format of Serial Number"</string>
+    <string name="is_factory_reset">"Do you want to do the factory reset?"</string>
+    <string name="W_tip_input_mac">"Input the mac address(12 hexadecimal numbers)"</string>
+    <string name="W_tip_input_sn">"Input the Serial Number(16 characters)"</string>
+    <string name="eth_info_predix">"Ethernet    :   %1$s"</string>
+    <string name="wlan_info_prefix">"WiFi    :   %1$s"</string>
+</resources>
+
